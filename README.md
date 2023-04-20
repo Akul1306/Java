@@ -1,2 +1,2 @@
 # Java
-Java bsic codes
+Java basic codes
